@@ -1,2 +1,0 @@
-# my-person
-person 
